@@ -1,1 +1,0 @@
-# LateX_notes
